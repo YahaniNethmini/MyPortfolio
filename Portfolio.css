@@ -362,6 +362,22 @@ h2 {
     background-color: #0056b3;
 }
 
+.contact h6{
+    font-size: 1rem;
+}
+
+h6 a {
+    font-size: 1rem;
+    color: white;
+    text-decoration: none; /* Remove underline */
+    transition: color 0.3s ease; /* Add transition for hover effect */
+}
+
+/* Optionally add a hover effect */
+h6 a:hover {
+    color: #ccc; /* Change to a lighter color on hover */
+}
+
 /* Footer */
 footer {
     background-color: #333;
