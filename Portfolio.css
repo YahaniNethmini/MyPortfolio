@@ -226,7 +226,8 @@ h2 {
 }
 
 /* Skills Section */
-.skills {
+.skills,
+.projects {
     background-color: black; /* Optional: background color for the about section */
     padding: 20px;
     text-align: center; /* Center-align text within the section */
