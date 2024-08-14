@@ -273,6 +273,14 @@ h2 {
     background-color: #e4e490;
 }
 
+.projects h6{
+    color: white;
+}
+
+.projects p{
+    color: black;
+}
+
 /* Footer */
 footer {
     background-color: #333;
