@@ -258,7 +258,7 @@ h2 {
 /* Styling for individual cards */
 .card-skills {
     background-color: #f4f4f4;
-    border: 1px solid #ddd;
+    border: 1px solid #c0b896;
     border-radius: 8px;
     padding: 20px;
     text-align: center;
@@ -273,12 +273,23 @@ h2 {
     background-color: #e4e490;
 }
 
-.projects h6{
+.projects h5{
     color: white;
 }
 
 .projects p{
     color: black;
+}
+
+.projects button{
+    width: 120px;
+    height: 40px;
+    background-color: black;
+}
+
+.projects button a {
+    color: white; /* Ensure the link color inside the button is black */
+    text-decoration: none; /* Remove underline from the link */
 }
 
 /* Footer */
